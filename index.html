@@ -233,18 +233,19 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           }
           if (window.afterBundleLoadTrack) {
             afterBundleLoadTrack()
-			setTimeout(function(){
-				var a = $(".s-footer-logo-wrapper").html();
-				//  ------进⾏剪切
-				a = a.substr(0,a.indexOf("."));
-				//  ----- 替换原来的数据
-				$(".s-footer-logo-wrapper").html(a);
-			},1000);
           }
         })
       })
     }, csrDelayTime)
   })
+
+  var t2 = window.setInterval(function() {
+  var a = $(".s-footer-logo-wrapper").html();
+				//  ------进⾏剪切
+				a = a.substr(0,a.indexOf("."));
+				//  ----- 替换原来的数据
+				$(".s-footer-logo-wrapper").html(a);
+},500)
 
 	
 </script>
