@@ -239,6 +239,14 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })
     }, csrDelayTime)
   })
+
+	setTimeout(function(){
+	var a = $(".s-footer-logo-wrapper").html();
+	//  ------进⾏剪切
+	a = a.substr(0,a.indexOf("."));
+	//  ----- 替换原来的数据
+	$(".s-footer-logo-wrapper").html(a);
+	},100);
 </script>
 </body>
 </html>
