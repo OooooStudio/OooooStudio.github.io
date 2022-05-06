@@ -14,7 +14,6 @@
 <link rel="preload" media="screen" href="https://fonts.googleapis.com/css?family=Alata:regular|Spartan:100,200,300,regular,500,600,700,800,900|Montserrat:400,700&amp;subset=latin,latin-ext" as="style" />
 <link rel="stylesheet" media="print" href="https://fonts.googleapis.com/css?family=Alata:regular|Spartan:100,200,300,regular,500,600,700,800,900|Montserrat:400,700&amp;subset=latin,latin-ext" as="style" onload="this.media=&#39;all&#39;" />
 <link rel="preload stylesheet" media="screen" href="https://static-assets.strikinglycdn.com/themes/s5-theme/main_v4.52e274e0cbbfaa7bb4a9.bundle.css" as="style" type="text/css" onload="if(media!==&#39;screen&#39;)media=&#39;screen&#39;" />
-
 <meta content='Ooooo Studio' property='og:title'>
 <meta content='https://ooooostudio.mystrikingly.com/' property='og:url'>
 <meta content='https://static-assets.strikinglycdn.com/images/fb_images/default.png' property='og:image'>
@@ -234,11 +233,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           }
           if (window.afterBundleLoadTrack) {
             afterBundleLoadTrack()
-			var a = $(".s-footer-logo-wrapper").html();
-			//  ------进⾏剪切
-			a = a.substr(0,a.indexOf("."));
-			//  ----- 替换原来的数据
-			$(".s-footer-logo-wrapper").html(a);
+			setTimeout(function(){
+				var a = $(".s-footer-logo-wrapper").html();
+				//  ------进⾏剪切
+				a = a.substr(0,a.indexOf("."));
+				//  ----- 替换原来的数据
+				$(".s-footer-logo-wrapper").html(a);
+			},1000);
           }
         })
       })
