@@ -216,15 +216,15 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   var csrDelayTime = window.delayTimeOfJsLoading || 0
   var linkDll = "https://static-assets.strikinglycdn.com/webpack/site-dll.b8aeaf8a3c907996efe9.js"
   var linkBundle = "https://static-assets.strikinglycdn.com/webpack/page-site-bundle.6fd10ef6fc4ed0d2b043.js"
-  function downloadJSAtOnload(link, callback) {
-      var element = document.createElement("script");
-      element.src = link;
-      element.async = true;
-      document.body.appendChild(element);
-      element.onload = function() {
-        callback && callback();
-      }
-  }
+  //function downloadJSAtOnload(link, callback) {
+  //    var element = document.createElement("script");
+  //    element.src = link;
+  //    element.async = true;
+  //    document.body.appendChild(element);
+  //    element.onload = function() {
+  //      callback && callback();
+  //    }
+  //}
   //window.addEventListener('load', function() {
   //  setTimeout(function() {
   //    downloadJSAtOnload(linkDll, function() {
