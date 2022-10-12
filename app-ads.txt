@@ -5,6 +5,14 @@ adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 applovin.com, c4b9b4dfeac113018ae4b0b99b32c001, DIRECT
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 
+facebook.com, 1273276283248375, RESELLER, c3e20eee3f780d68
+applovin.com, c4b9b4dfeac113018ae4b0b99b32c001, DIRECT
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+google.com, pub-8187002810928420, RESELLER
+google.com, pub-9469244224896360, RESELLER
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 170071695, RESELLER
+
 adelement.com, 30167, RESELLER
 
 admanmedia.com, 613, RESELLER
