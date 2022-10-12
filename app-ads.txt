@@ -4,7 +4,7 @@ google.com, pub-4807665936871785, DIRECT, f08c47fec0942fa0
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 applovin.com, c4b9b4dfeac113018ae4b0b99b32c001, DIRECT
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
-
+facebook.com, 2170011233172748, RESELLER, c3e20eee3f780d68
 facebook.com, 1273276283248375, RESELLER, c3e20eee3f780d68
 applovin.com, c4b9b4dfeac113018ae4b0b99b32c001, DIRECT
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
