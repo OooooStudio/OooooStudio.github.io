@@ -8,11 +8,20 @@ facebook.com, 2170011233172748, RESELLER, c3e20eee3f780d68
 facebook.com, 1273276283248375, RESELLER, c3e20eee3f780d68
 facebook.com, 1242592542982232, DIRECT, c3e20eee3f780d68
 applovin.com, c4b9b4dfeac113018ae4b0b99b32c001, DIRECT
+applovin.com, b5b82016ffc6bf0df92252e036acd9e6, DIRECT
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 google.com, pub-8187002810928420, RESELLER
 google.com, pub-9469244224896360, RESELLER
 pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 170071695, RESELLER
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+
 
 adelement.com, 30167, RESELLER
 
